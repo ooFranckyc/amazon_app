@@ -8,3 +8,4 @@ Onboard Feature:
 - Profile configuration
 - Auto Refresh of products via Firebase Firestore
 ed.franckmekoulou@outlook.com
+![Drible UI Design Mockup](https://cdn.dribbble.com/users/1219051/screenshots/14321616/media/4916e7c9597c5c7fef3ef2645a62027d.jpg?compress=1&resize=768x576&vertical=top)
